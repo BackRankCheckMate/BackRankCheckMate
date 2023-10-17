@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BackRankCheckMate
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning FrontEnd
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technology, Economics, Philosophy, Chess
+- 🌱 I’m currently learning JavaScript
 
 <!---
 BackRankCheckMate/BackRankCheckMate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
