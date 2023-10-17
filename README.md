@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BackRankCheckMate
+- 👋 Hi, I’m Rhythm Babu Kafle(BackRankCheckMate)
 - 👀 I’m interested in Technology, Economics, Philosophy, Chess
 - 🌱 I’m currently learning JavaScript
 
